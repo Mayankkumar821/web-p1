@@ -1,0 +1,55 @@
+.container
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header
+{background-color: #FFCD9E;
+display:flex;
+}
+
+.left
+{
+    height:600px;
+    width:800px;
+  
+}
+.right
+{
+    height:600px;
+    width:800px;
+
+}
+.footer
+{background-color: #282828;
+    display: flex;
+    
+}
+.fleft
+{
+    height:200px;
+    width:800px;
+  
+}
+.fright
+{
+    height:200px;
+    width:800px;
+   
+}
+.item
+{
+    position:relative;
+    left:30%;
+    top:45px;
+    padding:4px;
+    
+    color:white;
+}
+.item2
+{    color:rgb(255, 234, 234);
+    position:relative;
+    left:55%;
+    top:45px;
+    padding:4px;
+ 
+}
